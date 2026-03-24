@@ -1,0 +1,5 @@
+[
+  { "name": "Electronics",    "slug": "electronics",    "description": "All electronic devices",        "parentCategoryId": null },
+  { "name": "Clothing",       "slug": "clothing",       "description": "Men and women fashion",         "parentCategoryId": null },
+  { "name": "Books",          "slug": "books",          "description": "Books and educational material", "parentCategoryId": null }
+]

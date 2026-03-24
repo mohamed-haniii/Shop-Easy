@@ -1,0 +1,10 @@
+[
+  { "name": "iPhone 15 Pro",               "sku": "APL-IP15P-256",   "price": 45000.00, "stockQuantity": 20, "isActive": true  },
+  { "name": "Samsung Galaxy S24",          "sku": "SAM-GS24-128",    "price": 35000.00, "stockQuantity": 15, "isActive": true  },
+  { "name": "Dell XPS 15",                 "sku": "DEL-XPS15-512",   "price": 65000.00, "stockQuantity": 10, "isActive": true  },
+  { "name": "MacBook Pro M3",              "sku": "APL-MBP-M3-1T",   "price": 85000.00, "stockQuantity": 8,  "isActive": true  },
+  { "name": "Classic White Polo Shirt",    "sku": "CLT-POLO-WHT-M",  "price": 350.00,   "stockQuantity": 0,  "isActive": true  },
+  { "name": "Clean Code Book",             "sku": "BK-CLEANCODE-01", "price": 450.00,   "stockQuantity": 50, "isActive": true  },
+  { "name": "Wireless Headphones",         "sku": "ELC-WH-BLK-001",  "price": 2500.00,  "stockQuantity": 30, "isActive": true  },
+  { "name": "Old Model Tablet (Discontinued)", "sku": "ELC-TBL-OLD-001","price": 1200.00,"stockQuantity": 0, "isActive": false }
+]

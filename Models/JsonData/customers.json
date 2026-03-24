@@ -1,0 +1,7 @@
+[
+  { "fullName": "Ahmed Mohamed Ali",    "email": "ahmed.ali@example.com",    "phoneNumber": "01012345678", "createdAt": "2024-01-10T08:00:00Z" },
+  { "fullName": "Sara Hassan Ibrahim",  "email": "sara.ibrahim@example.com", "phoneNumber": "01123456789", "createdAt": "2024-01-15T09:30:00Z" },
+  { "fullName": "Mohamed Khaled Saber","email": "m.saber@example.com",       "phoneNumber": "01234567890", "createdAt": "2024-02-01T10:00:00Z" },
+  { "fullName": "Nour Ahmed Mostafa",  "email": "nour.mostafa@example.com",  "phoneNumber": null,          "createdAt": "2024-02-14T11:00:00Z" },
+  { "fullName": "Omar Tarek Fathy",    "email": "omar.fathy@example.com",    "phoneNumber": "01512345678", "createdAt": "2024-03-01T12:00:00Z" }
+]

@@ -1,0 +1,6 @@
+[
+  { "code": "WELCOME10", "percentage": 10.00, "expiresAt": "2025-12-31T23:59:59Z", "isActive": true,  "maxUses": 100, "currentUses": 5  },
+  { "code": "SUMMER25",  "percentage": 25.00, "expiresAt": "2024-08-31T23:59:59Z", "isActive": false, "maxUses": 50,  "currentUses": 50 },
+  { "code": "TECH15",    "percentage": 15.00, "expiresAt": "2025-06-30T23:59:59Z", "isActive": true,  "maxUses": 200, "currentUses": 20 },
+  { "code": "FLASH50",   "percentage": 50.00, "expiresAt": "2024-01-01T00:00:00Z", "isActive": false, "maxUses": 30,  "currentUses": 30 }
+]

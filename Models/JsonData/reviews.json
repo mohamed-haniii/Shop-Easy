@@ -1,0 +1,7 @@
+[
+  { "rating": 5, "comment": "Excellent phone! Very fast and great camera.",           "createdAt": "2024-03-10T08:00:00Z" },
+  { "rating": 4, "comment": "Very good but a bit pricey.",                            "createdAt": "2024-03-12T09:00:00Z" },
+  { "rating": 4, "comment": "Great Android experience.",                              "createdAt": "2024-03-20T10:00:00Z" },
+  { "rating": 5, "comment": "Best laptop I have ever owned. Worth every penny.",      "createdAt": "2024-04-15T11:00:00Z" },
+  { "rating": 3, "comment": "Decent sound quality but connectivity could be better.", "createdAt": "2024-05-05T14:00:00Z" }
+]
